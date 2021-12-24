@@ -1,0 +1,3 @@
+Estupendo dia para estudiar python 
+Esta linea fue modificada desde el exterior
+Siempre es un buen dia para usar Linux :)
